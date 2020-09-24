@@ -1,27 +1,25 @@
-![](https://img.shields.io/badge/lovehacker404-BlackMafia-orange?style=for-the-badge&logo=python.svg) 
+![](https://img.shields.io/badge/lovefucker420-SilentForce-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
-<img src="blackmafia3.gif">
-<a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in Bangladesh " src="https://img.shields.io/badge/MADE%20IN-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-  <img alt="lovehacker404' Github Stats" src="https://github-readme-stats.vercel.app/api?username=lovehacker404&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img alt="lovefucker420' Github Stats" src="https://github-readme-stats.vercel.app/api?username=lovefucker420&show_icons=true&include_all_commits=true&hide_border=true" />
 <!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lovehacker404&hide=ruby,perl&hide_border=true" />  -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lovefucker420&hide=ruby,perl&hide_border=true" />  -->
 </p>
 <p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-03094161457-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-+8801305055097-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<img src="blackmafia5.gif">
 <p align="center">
 <p align="center">
-<a href="https://github.com/lovehacker404"><img title="Author" src="https://img.shields.io/badge/Author-lovehacker404-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/lovefucker420"><img title="Fuck" src="https://img.shields.io/badge/Fuck-lovefucker420-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/lovehacker404/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovehacker404/World?color=red&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovehacker404/World?color=red&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/lovefucker420/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovefucker420?color=blue&style=flat-square"></a>
+<a href="https://github.com/lovefucker420/devil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovefucker420/World?color=red&style=flat-square"></a>
+<a href="https://github.com/lovefucker420/devil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovefucker420/devil?color=red&style=flat-square"></a>
+<a href="https://github.com/lovefucker420/devil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovefucker420/devil?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 # Installation :
@@ -43,10 +41,10 @@
 
 😈 `pip install lolcat`
 
-😈 `git clone https://github.com/lovehacker404/World`
+😈 `git clone https://github.com/lovefucker420/devil`
 
-😈 `cd World`
+😈 `cd devil`
 
-👾 `python2 Cloning.py`
+👾 `python2 devil.py`
 
 
